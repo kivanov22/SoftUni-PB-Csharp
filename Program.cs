@@ -1,18 +1,37 @@
 ﻿using System;
 
-namespace Character_Sequence
+namespace Number_Sequence
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
+            int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < input.Length; i++)
+            int big = int.MinValue;
+            int small = int.MaxValue;
+
+
+
+            for (int i = 1; i <= n; i++)
             {
-                char letter = input[i];
-                Console.WriteLine(letter);
+                int num = int.Parse(Console.ReadLine());
+
+                if (num < small)
+                {
+                    small = num;
+
+                }
+                if (num > big)
+                {
+                    big = num;
+
+                }
             }
+            Console.WriteLine($"Max number: {big}");
+            Console.WriteLine($"Min number: {small}");
+           
+            
         }
     }
 }
