@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savings", "Savings\Savings.csproj", "{A525B603-C40D-490B-B6F5-634C5E2973D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summer-Shopping", "Summer-Shopping\Summer-Shopping.csproj", "{25F83970-778B-403F-AC1F-A49544585DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cruise-Ship", "Cruise-Ship\Cruise-Ship.csproj", "{1F184FE6-6896-4042-A745-5CF11743AAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darts-Tournament", "Darts-Tournament\Darts-Tournament.csproj", "{DAAF5B0B-BE00-4BA5-B390-C50BA6A10B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cruise-Games", "Cruise-Games\Cruise-Games.csproj", "{E797FB8B-673B-4D79-A3A8-360F57C08359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baking-Competition", "Baking-Competition\Baking-Competition.csproj", "{62405E12-7DA3-4E81-A241-158446E36F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A525B603-C40D-490B-B6F5-634C5E2973D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A525B603-C40D-490B-B6F5-634C5E2973D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A525B603-C40D-490B-B6F5-634C5E2973D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A525B603-C40D-490B-B6F5-634C5E2973D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F83970-778B-403F-AC1F-A49544585DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F83970-778B-403F-AC1F-A49544585DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F83970-778B-403F-AC1F-A49544585DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F83970-778B-403F-AC1F-A49544585DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F184FE6-6896-4042-A745-5CF11743AAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F184FE6-6896-4042-A745-5CF11743AAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F184FE6-6896-4042-A745-5CF11743AAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F184FE6-6896-4042-A745-5CF11743AAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAF5B0B-BE00-4BA5-B390-C50BA6A10B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAF5B0B-BE00-4BA5-B390-C50BA6A10B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAF5B0B-BE00-4BA5-B390-C50BA6A10B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAF5B0B-BE00-4BA5-B390-C50BA6A10B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E797FB8B-673B-4D79-A3A8-360F57C08359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E797FB8B-673B-4D79-A3A8-360F57C08359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E797FB8B-673B-4D79-A3A8-360F57C08359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E797FB8B-673B-4D79-A3A8-360F57C08359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62405E12-7DA3-4E81-A241-158446E36F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62405E12-7DA3-4E81-A241-158446E36F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62405E12-7DA3-4E81-A241-158446E36F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62405E12-7DA3-4E81-A241-158446E36F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {402903E6-31F4-4C7E-AAEF-961C63362CCB}
+	EndGlobalSection
+EndGlobal
